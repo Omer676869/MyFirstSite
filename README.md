@@ -9,10 +9,11 @@
   <li>4/9/2025</li>
 </ul>
 </body>
+
+</head>
 <style>
   ul{
     color: blue;
     }
 </style>
-</head>
 </html>
