@@ -11,9 +11,5 @@
 </body>
 
 </head>
-<style>
-  ul{
-    color: blue;
-    }
-</style>
+
 </html>
