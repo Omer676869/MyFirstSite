@@ -5,8 +5,8 @@
   <h1>My First HTML Site</h1>
 
 <ul>
-  <il> Date of First publish</il>
-  <il>4/9/2025</il>
+  <li> Date of First publish</li>
+  <li>4/9/2025</li>
 </ul>
 </body>
 <style>
