@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
-<body>
+<head>
+  <body>
   <h1>My First HTML Site</h1>
 
 <ul>
@@ -13,4 +14,5 @@
     color: blue;
     }
 </style>
+</head>
 </html>
